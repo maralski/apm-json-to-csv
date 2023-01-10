@@ -1,3 +1,5 @@
+.gitignore
+.gitattributes
 *.query
 *.csv
 *.json
